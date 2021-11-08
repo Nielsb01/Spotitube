@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spotitube:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b254015-10a3-45de-be10-0146b1ab552c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="234" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spotitube">
+      <favorite_root url="nl.han.ica.oose.dea.niels.Cdatalayer.datamappers.LoginDatamapper" module="Spotitube" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1WwkZFawGmOSlSeYARwFVZspE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="nl.han.ica.oose.dea.niels.datalayer.daos" />
+      <recent name="nl.han.ica.oose.dea.niels.datalayer.datamappers" />
+      <recent name="nl.han.ica.oose.dea.niels.servicelayer" />
+      <recent name="nl.han.ica.oose.dea.niels.resourcelayer" />
+      <recent name="nl.han.ica.oose.dea.niels.Bservices" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.han.ica.oose.dea.niels.Aresources.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.nl.han.ica.oose.dea.niels in Spotitube">
+    <configuration name="nl.han.ica.oose.dea.niels in Spotitube" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oose.dea.niels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="nl.han.ica.oose.dea.niels.resourcelayer.dtos.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.ica.oose.dea.niels" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Spotitube:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Spotitube" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53625" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Spotitube:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.nl.han.ica.oose.dea.niels in Spotitube" />
+      <item itemvalue="TomEE Server.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14549181" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="TomEE Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b254015-10a3-45de-be10-0146b1ab552c" name="Default Changelist" comment="" />
+      <created>1584007320756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584007320756</updated>
+      <workItem from="1584007322335" duration="3584000" />
+      <workItem from="1584100863011" duration="65000" />
+      <workItem from="1584351461385" duration="6000" />
+      <workItem from="1584533029039" duration="2529000" />
+      <workItem from="1584609129740" duration="8873000" />
+      <workItem from="1584877162905" duration="4427000" />
+      <workItem from="1585681192946" duration="8000" />
+      <workItem from="1585681491599" duration="824000" />
+      <workItem from="1587541679408" duration="622000" />
+      <workItem from="1587628333554" duration="1959000" />
+      <workItem from="1590147917974" duration="5270000" />
+      <workItem from="1590391245645" duration="98000" />
+      <workItem from="1590394439802" duration="257000" />
+      <workItem from="1630479751387" duration="7963000" />
+      <workItem from="1632060469716" duration="98000" />
+      <workItem from="1632061584118" duration="13000" />
+      <workItem from="1632471371264" duration="18000" />
+      <workItem from="1633686867501" duration="4287000" />
+      <workItem from="1633876115479" duration="17652000" />
+      <workItem from="1633944260177" duration="23569000" />
+      <workItem from="1634038286944" duration="8739000" />
+      <workItem from="1634121372317" duration="26342000" />
+      <workItem from="1634203433060" duration="7358000" />
+      <workItem from="1634226535237" duration="2637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="44" key="#All_in_Spotitube" timestamp="1633893319231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="44" key="#All_in_Spotitube/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633893319231" />
+    <state x="361" y="72" key="#Notifications" timestamp="1633948466796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Notifications/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633948466796" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1633893332948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633893332948" />
+    <state x="361" y="72" key="#SQL_Dialects" timestamp="1633890433274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#SQL_Dialects/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633890433274" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634209247044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634209247044" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1630479889852" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1634152472651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634152472651" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1634157940580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634157940580" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1630482761959" />
+    <state x="499" y="190" width="538" height="443" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1634209245045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="190" width="538" height="443" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634209245045" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1634128432447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634128432447" />
+    <state x="547" y="298" width="461" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1633963283093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="298" width="461" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633963283093" />
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1633897681648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633897681648" />
+    <state x="365" y="44" key="#nl.han.ica.oose.dea.niels.Aresources_in_Spotitube" timestamp="1633893685603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="44" key="#nl.han.ica.oose.dea.niels.Aresources_in_Spotitube/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633893685603" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1633893083698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633893083698" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632471387146" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1634231680944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634231680944" />
+    <state width="1024" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1634231680944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634231680944" />
+    <state width="1024" height="308" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1634231680944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634231680944" />
+    <state width="1024" height="308" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1634231680944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634231680944" />
+    <state width="1024" height="308" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.1.bottom" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.1.center" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.1.left" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.1.right" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.2.bottom" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.2.center" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.2.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.2.left" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.2.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="290" key="GridCell.Tab.2.right" timestamp="1634214126278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="290" key="GridCell.Tab.2.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634214126278" />
+    <state width="1024" height="308" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1630488531840" />
+    <state width="1250" height="256" key="GridCell.Tab.3.bottom" timestamp="1633897392378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="256" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633897392378" />
+    <state width="1024" height="308" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630488397505" />
+    <state width="1250" height="256" key="GridCell.Tab.3.center" timestamp="1633897392378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="256" key="GridCell.Tab.3.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633897392378" />
+    <state width="1024" height="308" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1630488397505" />
+    <state width="1250" height="256" key="GridCell.Tab.3.left" timestamp="1633897392378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="256" key="GridCell.Tab.3.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633897392378" />
+    <state width="1024" height="308" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1630488397505" />
+    <state width="1250" height="256" key="GridCell.Tab.3.right" timestamp="1633897392378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="256" key="GridCell.Tab.3.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633897392378" />
+    <state width="1024" height="308" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1630488397505" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1633879394758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633879394758" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1633975092947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633975092947" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1632471381787" />
+    <state x="584" y="191" key="chooseDestDirectoryDialog" timestamp="1633893675849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="191" key="chooseDestDirectoryDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633893675849" />
+    <state x="408" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1633892487794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1633892487794" />
+    <state x="536" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1634207750790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634207750790" />
+    <state x="-1376" y="-24" width="1117" height="557" maximized="true" key="dock-window-1" timestamp="1634209221903">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1376" y="-24" width="1117" height="557" maximized="true" key="dock-window-1/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634209221903" />
+    <state x="-1376" y="132" width="1117" height="557" key="dock-window-2" timestamp="1634208868040">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1376" y="132" width="1117" height="557" key="dock-window-2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634208868040" />
+    <state x="-1675" y="266" width="1507" height="808" key="dock-window-3" timestamp="1634153272357">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1675" y="266" width="1507" height="808" key="dock-window-3/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634153272357" />
+    <state x="-1158" y="0" width="781" height="830" key="dock-window-4" timestamp="1634153923160">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1158" y="0" width="781" height="830" key="dock-window-4/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634153923160" />
+    <state x="-1711" y="34" key="new project wizard" timestamp="1634045278203">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1711" y="34" key="new project wizard/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1634045278203" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1634129403885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634129403885" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1634208385436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1634208385436" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TomeeConfiguration">
+        <watch expression="((UserDAO)userDAO).loginDataMapper" custom="nl.han.ica.oose.dea.niels.Cdatalayer.daos.UserDAO" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spotitube$All_in_Spotitube.ic" NAME="All in Spotitube Coverage Results" MODIFIED="1634121698109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <EXCLUDED_FILTER>nl.han.ica.oose.dea.niels.resourcelayer.dtos.*</EXCLUDED_FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spotitube$LoginResourceTest.ic" NAME="LoginResourceTest Coverage Results" MODIFIED="1634128274650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.ica.oose.dea.niels.resourcelayer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spotitube$UserDAOTest.ic" NAME="UserDAOTest Coverage Results" MODIFIED="1634206010859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.ica.oose.dea.niels.datalayer.daos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spotitube$LoginDataMapperTest_testToDTO.ic" NAME="LoginDataMapperTest.testToDTO Coverage Results" MODIFIED="1634151727925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.ica.oose.dea.niels.datalayer.datamappers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spotitube$LoginServiceTest_testCheckLoginWrongUserThrowsException.ic" NAME="LoginServiceTest.testCheckLoginWrongUserThrowsException Coverage Results" MODIFIED="1634140192330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.ica.oose.dea.niels.servicelayer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spotitube$nl_han_ica_oose_dea_niels_in_Spotitube.ic" NAME="nl.han.ica.oose.dea.niels in Spotitube Coverage Results" MODIFIED="1634230383910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.ica.oose.dea.niels.*</FILTER>
+      <EXCLUDED_FILTER>nl.han.ica.oose.dea.niels.resourcelayer.dtos.*</EXCLUDED_FILTER>
+    </SUITE>
+  </component>
+</project>
