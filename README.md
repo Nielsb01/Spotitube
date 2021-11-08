@@ -1,7 +1,7 @@
 # Spotitube
 Mijn oplevering van de casus Spotitube voor het vak OOSE-DEA
 
-Cijver 8.2
+Cijfer 8.2, beoordelld door Rody Middelkoop
 
 ## Mogelijke verbeteringen:
 - DTO als verticale laag builen pacage structuur zetten zodal data layer niet afhankelijk is van een package 2 lagen daarboven
